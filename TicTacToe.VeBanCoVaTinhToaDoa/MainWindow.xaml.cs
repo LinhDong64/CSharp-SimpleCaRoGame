@@ -148,7 +148,7 @@ namespace TicTacToe.VeBanCoVaTinhToaDoa
             while (-1 != startJ + dj)//con qua duoc ben trai
             {
                 startJ += dj;//di qua trai
-                if (_a[i, j] == a[i, startJ])//tang bien dem
+                if (_a[i, j] == a[i, startJ])
                 {
                     count++;
                 }
