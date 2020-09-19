@@ -51,7 +51,7 @@ namespace TicTacToe.VeBanCoVaTinhToaDoa
                 line.X1 = startX + i*width;
                 line.Y1 = startY;
 
-                line.X2 = startX + i*width;
+                //line.X2 = startX + i*width;
                 line.Y2 = startY + 6 * height;
             }
 
