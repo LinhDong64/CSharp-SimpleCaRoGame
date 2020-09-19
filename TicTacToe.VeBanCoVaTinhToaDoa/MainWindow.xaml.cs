@@ -93,7 +93,7 @@ namespace TicTacToe.VeBanCoVaTinhToaDoa
                 var img = new Image();
                 img.Width = 30;
                 img.Height = 30;
-                if (isXTurn)//Thêm image có hình X vào 
+                if (isXTurn)
                 {
                     img.Source = new BitmapImage(
                         new Uri("X.png", UriKind.Relative));
