@@ -88,7 +88,7 @@ namespace TicTacToe.VeBanCoVaTinhToaDoa
             this.Title = $"{positon.X}-{positon.Y},a[{i}][{j}]";
 
             
-            if (_a[i, j] == 0)//ô này còn trống 
+            if (_a[i, j] == 0)
             {
                 var img = new Image();
                 img.Width = 30;
