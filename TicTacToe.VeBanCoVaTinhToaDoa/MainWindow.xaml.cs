@@ -138,7 +138,7 @@ namespace TicTacToe.VeBanCoVaTinhToaDoa
             
         }
 
-        //Kiem tra theo dong
+        
         private int checkRow(int[,] a, int i, int j)
         {
             int count = 1;
