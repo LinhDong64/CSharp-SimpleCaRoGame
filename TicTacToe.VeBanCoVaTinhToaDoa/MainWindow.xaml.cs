@@ -73,7 +73,7 @@ namespace TicTacToe.VeBanCoVaTinhToaDoa
 
         private void Window_MouseMove(object sender, MouseEventArgs e)
         {
-           // this.Title=(e.GetPosition(this).ToString());
+          
         }
 
         bool isXTurn = true;
